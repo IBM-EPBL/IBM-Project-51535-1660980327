@@ -1,1 +1,19 @@
-project
+NAME : Priyadharshini J
+
+ROLLNO : 410619106014
+
+EMAIL : jpriya18062002@gmail.com
+
+MOBILE NUMBER : 7395909759
+
+GENDER : Female
+
+DATE OF BIRTH : 18/06/2002
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Electronics and Communication Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
