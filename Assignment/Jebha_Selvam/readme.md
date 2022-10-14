@@ -1,1 +1,19 @@
-project
+NAME : Jebha Selvam J
+
+ROLLNO : 410619106008
+
+EMAIL : jeba492@gmail.com
+
+MOBILE NUMBER : 9344554149
+
+GENDER : Female
+
+DATE OF BIRTH : 11/09/2000
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Electronics and Communication Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
