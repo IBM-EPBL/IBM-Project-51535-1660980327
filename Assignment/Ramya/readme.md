@@ -1,1 +1,19 @@
-project
+NAME : Ramya.D
+
+ROLLNO : 410619106015
+
+EMAIL : rya804147@gmail.com
+
+MOBILE NUMBER : 9150769368
+
+GENDER : Female
+
+DATE OF BIRTH : 22/08/2001
+
+DEGREE : Bachelor of Engineering
+
+BRANCH : Electronics and Communication Engineering
+
+YEAR OF PASSING : 2023
+
+COLLEGE : DHAANISH AHMED COLLEGE OF ENGINEERING
